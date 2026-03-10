@@ -23,7 +23,9 @@ https://github.com/marunigno-ship-it/QERRA-v2
 - [8-qubit W-state (real IBM hardware)](https://github.com/marunigno-ship-it/8qubit-wstate-qubs)  
 - [32-qubit W-state](https://github.com/marunigno-ship-it/32qubit-wstate-qubs) – latest scaling benchmark
 
-**License:** Apache-2.0 (same as main project)
+**License:** AGPL-3.0 (same as main project)
+
+
 
 #QuantumRobotics #QAI #IBMQuantum #EthicalAI #QuantumEntanglement #Greece
 
